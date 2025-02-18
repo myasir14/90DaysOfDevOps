@@ -130,4 +130,3 @@ While the OSI model provides theoretical clarity, the **TCP/IP (Transmission Con
 ## Conclusion
 
 Computer networking underpins every aspect of DevOps, from deploying scalable applications to managing CI/CD pipelines. DevOps professionals can build reliable, secure, and efficient systems by understanding the OSI and TCP/IP models, key protocols, and best practices. As you progress in your journey, applying these concepts will enhance your technical skills and ensure seamless collaboration in complex environments.
-
